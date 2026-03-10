@@ -2,7 +2,7 @@
 
 | Field              | Value                                                           |
 | ------------------ | --------------------------------------------------------------- |
-| **PR**             | [#2](https://github.com/alrafkimurf-tech/ag-skills-demo/pull/2) |
+| **PR**             | [#1](https://github.com/alrafkimurf-tech/ag-skills-demo/pull/1) |
 | **Author**         | AI Agent                                                        |
 | **Date**           | 2026-03-10                                                      |
 | **Status**         | **Ready to merge**                                              |
