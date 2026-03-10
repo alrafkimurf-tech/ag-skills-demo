@@ -125,3 +125,21 @@ test-results/
 .cache/
 tmp/
 temp/
+
+# ===========================
+# Agricultural Skills Data
+# ===========================
+# Data outputs from ag-skills (only examples/ should be committed)
+data/ag-skills/*.geojson
+data/ag-skills/*.tif
+data/ag-skills/*.tiff
+data/ag-skills/*.nc
+data/ag-skills/*.csv
+data/ag-skills/*.parquet
+data/ag-skills/*.shp
+data/ag-skills/*.shx
+data/ag-skills/*.dbf
+data/ag-skills/*.png
+data/ag-skills/*.jpg
+data/ag-skills/*.pdf
+data/ag-skills/*.html
